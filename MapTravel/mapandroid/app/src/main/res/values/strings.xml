@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">testmapbox</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibXVyYWxpaHIiLCJhIjoiYXNJRUtZNCJ9.qCHETqk-pqaoRaK4e_VcvQ</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_recyclerview">RecyclerviewActivity</string>
+
+
+
+    <!-- Recyclerview on map -->
+    <string name="rv_card_name">Tree #%1$d</string>
+    <string name="rv_card_bed_info">This location has %1$d beds</string>
+    <string name="toast_instruction">Tap on cards below</string>
+    <string name="title_activity_recycler_view_directions">TreeTrails</string>
+
+
+    <string name="rv_directions_route_card_name">Ramayana Tree  #%1$d</string>
+    <string name="rv_directions_route_available_table_info">%1$d verses reference</string>
+    <string name="title_activity_tree_description">TreeDescriptionActivity</string>
+</resources>
